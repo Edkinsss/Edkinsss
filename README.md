@@ -21,7 +21,7 @@
 
 ## 📈 GitHub Статистика
 
-[![Edkinsss](https://github-readme-stats.vercel.app/api?username=Edkinsss&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Edkinsss](https://github-readme-stats.vercel.app/api?username=Edkinsss&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=synthwave)
 
 
 ## 📊 GitHub Skyline
