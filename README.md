@@ -26,7 +26,7 @@
 
 ## 📊 GitHub Skyline
 
-[![GitHub Skyline](https://skyline.github.com/ваше-имя/год)](https://skyline.github.com/ваше-имя/год)
+[![GitHub Skyline](https://skyline.github.com/Edkinsss/2024)](https://skyline.github.com/Edkinsss/2024)
 
 
 ## 📫 Как со мной связаться
