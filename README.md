@@ -23,6 +23,12 @@
 
 [![Edkinsss](https://github-readme-stats.vercel.app/api?username=Edkinsss&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+
+## 📊 GitHub Skyline
+
+[![GitHub Skyline](https://skyline.github.com/ваше-имя/год)](https://skyline.github.com/ваше-имя/год)
+
+
 ## 📫 Как со мной связаться
 
 Вы можете связаться со мной через:
