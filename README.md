@@ -31,11 +31,6 @@
 [![Edkinsss](https://github.com/Edkinsss/-.JavaScript.git/?username=Edkinsss&repo=HTML.-Work-&cache_seconds=86400&theme=shadow_red)
 
 
-## 📊 GitHub Skyline
-
-[![GitHub Skyline](https://skyline.github.com/Edkinsss/2024)](https://skyline.github.com/Edkinsss/2024)
-
-
 ## 📫 Как со мной связаться
 
 Вы можете связаться со мной через:
