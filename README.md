@@ -50,7 +50,8 @@
 - [HTML / CSS](https://github.com/Edkinsss/HTML.-Work-.git): Базовый учебник тем 'HTML / CSS'. Решение задач.
 - [.js](https://github.com/Edkinsss/-.JavaScript.git): Обучение .js. Решение учебника
 
-
+## 🐍🐍🐍
+![Snake animation](https://raw.githubusercontent.com/Edkinsss/Edkinsss/output/github-contribution-grid-snake.svg)
 
 
 ## 🎉 Спасибо за посещение моего профиля!
