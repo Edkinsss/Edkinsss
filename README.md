@@ -1,4 +1,11 @@
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Edkinsss)
+<h1 align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com/?font-Righteous&size-35&center-true&vCenter-true&width-5008height-70&duration-400081ines-Hi+There!+👋;+I'm+Edkinss+🔥!;" />
+    </a>
+</h1>
+
+
+![Edkinsss](https://visitor-badge.laobi.icu/badge?page_id=Edkinsss)
 
 # 👋 Привет, я Edkinsss!
 
