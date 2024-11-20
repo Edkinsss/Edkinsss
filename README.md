@@ -52,7 +52,7 @@
 
 
 
-Generates a snake game from a github user contributions graph
+## Игра-змея на основе графики пользователей GitHub 🐍🐍🐍
 
 <picture>
   <source
