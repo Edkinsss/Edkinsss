@@ -24,6 +24,10 @@
 [![Edkinsss](https://github-readme-stats.vercel.app/api?username=Edkinsss&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=synthwave)
 
 
+## 💳 GitHub Stats
+[![Edkinsss](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=shadow_red)
+
+
 ## 📊 GitHub Skyline
 
 [![GitHub Skyline](https://skyline.github.com/Edkinsss/2024)](https://skyline.github.com/Edkinsss/2024)
