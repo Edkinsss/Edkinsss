@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Привет, я Edkinsss!
 
-<!--
-**Edkinsss/Edkinsss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Обо мне
 
-Here are some ideas to get you started:
+Я начинающий программист, увлеченный IT - технологиям. В настоящее время я работаю над учебным и так же сообственным проектом.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Технологии и инструменты
+
+Здесь перечислены технологии и инструменты, с которыми я работаю:
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![Tinkercad](https://img.shields.io/badge/Tinkercad-000000?style=for-the-badge&logo=tinkercad&logoColor=white)](https://www.tinkercad.com/)
+
+
+## 📈 GitHub Статистика
+
+[![Edkinsss](https://github-readme-stats.vercel.app/api?username=Edkinsss&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+## 📫 Как со мной связаться
+
+Вы можете связаться со мной через:
+
+[![VK](https://img.shields.io/badge/VK-4680C2?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/smolderees)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Edkinss)
+[![Mail.ru](https://img.shields.io/badge/Mail.ru-005FF9?style=for-the-badge&logo=mail.ru&logoColor=white)](edem.seytzhalilov@mail.ru)
+
+## 🌟 Проекты
+
+Здесь перечислены некоторые из моих проектов:
+
+- [Express](https://github.com/Edkinsss/Project_Apple.git): Cоздание первого и сообственного проекта по учебному документу.
+- [HTML / CSS](https://github.com/Edkinsss/HTML.-Work-.git): Базовый учебник тем 'HTML / CSS'. Решение задач.
+- [.js](https://github.com/Edkinsss/-.JavaScript.git): Обучение .js. Решение учебника
+
+
+## 🎉 Спасибо за посещение моего профиля!
+
+Не стесняйтесь изучать мои проекты и связываться со мной!
