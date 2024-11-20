@@ -25,7 +25,10 @@
 
 
 ## 💳 GitHub Stats
-[![Edkinsss](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=shadow_red)
+[![Edkinsss](https://github.com/Edkinsss/Edkinsss.git/?username=Edkinsss&repo=HTML.-Work-&cache_seconds=86400&theme=shadow_red)
+[![Edkinsss](https://github.com/Edkinsss/Project_Apple.git/?username=Edkinsss&repo=HTML.-Work-&cache_seconds=86400&theme=shadow_red)
+[![Edkinsss](https://github.com/Edkinsss/HTML.-Work-.git/?username=Edkinsss&repo=HTML.-Work-&cache_seconds=86400&theme=shadow_red)
+[![Edkinsss](https://github.com/Edkinsss/-.JavaScript.git/?username=Edkinsss&repo=HTML.-Work-&cache_seconds=86400&theme=shadow_red)
 
 
 ## 📊 GitHub Skyline
