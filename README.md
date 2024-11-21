@@ -52,6 +52,16 @@
 - [HTML / CSS](https://github.com/Edkinsss/HTML.-Work-.git): Базовый учебник тем 'HTML / CSS'. Решение задач.
 - [.js](https://github.com/Edkinsss/-.JavaScript.git): Обучение .js. Решение учебника
 
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍My Contributions🐍</h2>
+  <br>
+  <img alt="snake eating my contibutions" src="https://raw.githubusercontent.com/Edkinsss/Edkinsss/output/github-contribution-grid-snake.svg" />
+
+  <br/><br/><br/>
+</div>
 
 
 ## 🎉 Спасибо за посещение моего профиля!
