@@ -1,4 +1,6 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DDF724&width=435&lines=Hi+There+%F0%9F%91%8B;I'm+++--%3E+++E+d+k+i+n+s+s+" alt="Typing SVG" /></a>
+<h1 align ="center" >
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DDF724&width=700&lines=Hi+There+%F0%9F%91%8B;I'm+++--%3E+++E+d+k+i+n+s+s+" alt="Typing SVG" /></a>
+</h1>
 
 
 # 👋 Привет, я Edkinsss!                                      ![Edkinsss](https://visitor-badge.laobi.icu/badge?page_id=Edkinsss)
