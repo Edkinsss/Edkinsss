@@ -5,7 +5,7 @@
 
 ## 🚀 Обо мне
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=f7a824&width=435&lines=Hi+There+%F0%9F%91%8B;Я+начинающий+ программист+увлеченный+IT+-+технологиям.+В+настоящее+время+я+работаю+над+учебным+и+так+же+сообственным+проектом." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=f7a824&width=435&lines=%F0%9F%91%8B;Я+начинающий+ программист+увлеченный+IT+-+технологиям.+В+настоящее+время+я+работаю+над+учебным+и+так+же+сообственным+проектом." alt="Typing SVG" /></a>
 
 ## 🛠️ Технологии и инструменты
 
