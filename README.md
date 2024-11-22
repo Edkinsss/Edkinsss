@@ -52,6 +52,8 @@
 - [HTML / CSS](https://github.com/Edkinsss/HTML.-Work-.git): Базовый учебник тем 'HTML / CSS'. Решение задач.
 - [.js](https://github.com/Edkinsss/-.JavaScript.git): Обучение .js. Решение учебника
 
+## snake eating my contribution graph
+![snake gif](https://github.com/Edkinsss/Edkinsss/blob/output/github-contribution-grid-snake-dark.svg)
 
 
 ## 🎉 Спасибо за посещение моего профиля!
