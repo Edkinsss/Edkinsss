@@ -22,6 +22,7 @@
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![Tinkercad](https://img.shields.io/badge/Tinkercad-000000?style=for-the-badge&logo=tinkercad&logoColor=white)](https://www.tinkercad.com/)
+[![Vue]()](https://vuejs.org)
 
 
 ## 📈 GitHub Статистика
